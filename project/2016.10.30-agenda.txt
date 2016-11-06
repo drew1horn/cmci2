@@ -1,0 +1,101 @@
+Much of this will be covered in the next meeting.
+But some will continue on for months.
+
+Meeting Schedule
+    Team Members login to google
+    Google Calendar
+        Each Team Member enters all potentially conflicting events to their calendars
+        Recurring and one time events
+
+    Once a week is the goal
+    Sometimes it doesn't work
+    More during vacations
+
+Meeting Types
+    Online 
+        Google Hangouts And/Or, YouTube videos?
+        Archivable?
+
+    Email with Google Groups
+        CeliaMCI-Team@googlegroups.com
+        CeliaMCI-TeamParents@googlegroups.com
+
+    In person
+
+Install & Configure SW on laptops
+    Google Groups
+        Add CeliaMCI-Team, CeliaMCI-TeamParent to address books
+
+    Team Members login to google
+
+    Google Hangouts
+    Google Docs
+    Google Drive
+
+    Try them all out
+
+KO - Recap for Emiliano
+
+    Classes
+            http://supercomputingchallenge.org/16-17/?q=node/200
+
+        Report Writing
+        Puzzles
+        Netlogo
+        Meet The Scientist
+
+    Keynotes
+        Deep Learning/Neural Nets
+        Diffusion
+        Last years winners are role models!
+
+Project
+    Model a real place
+    Export to Minecraft to be able to play there
+    Predict a future at the place
+        Climate Change Too Complicated?
+        Wind Erosion   Too Complicated?
+        Water Erosion  Maybe, Just Right!
+        Other futures.
+    Other ideas
+
+Netlogo vs. Python?
+
+Roles
+    Each Team member has a primary responsibility for one role
+    And, Secondary responsibility for another
+
+    Researcher
+        Tools
+            Citations and Bibliography: Zotero, Scrible, Blas', ...
+        Search for prior work, GIS data, images, online databases,  etc.
+            Search: <language> <topic/future>
+        Reading over your head
+
+    Programmer
+        If Netlogo then study Tutorials, User Manual, and Dictionary!
+        Learn To Do
+            Import GIS data, images, online databases,  etc.
+            Screen Scraping
+                Beautiful Soup is in Python
+            Export to Minecraft
+
+    Archivist
+        Calendar
+        Minutes
+        Manage action items
+        Git
+        Github vs. Google Groups
+
+    Writer
+        Tools
+            Google Docs, LibreOffice
+            Citations and Bibliography: Zotero, Scrible, Blas', ...
+            Grammarly
+        Interim Report
+        Final Report
+            Start Fleshing out a template now! Instead of starting writing at the very end.
+
+    Presentation
+        Everyone!!
+
