@@ -30,16 +30,16 @@ Do this while in Netlogo Hangout from home
 
 * Install, Configure, Test Google Apps
 * Google Groups Add to address books
-  ** CeliaMCI-Team@googlegroups.com
-  ** CeliaMCI-TeamParent@googlegroups.com
-  ** CeliaMCI-TeamParentAnnounce@googlegroups.comk
+** CeliaMCI-Team@googlegroups.com
+** CeliaMCI-TeamParent@googlegroups.com
+** CeliaMCI-TeamParentAnnounce@googlegroups.comk
 
-  * Google Hangouts
+* Google Hangouts
         Continue Testing
 
-  * Google Drive
-        Trying to get it to work the way we need
-        May retreat to Dropbox
+* Google Drive
+Trying to get it to work the way we need
+May retreat to Dropbox
         --Drew
 
 ###Other Tools
