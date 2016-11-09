@@ -1,4 +1,5 @@
-# Tools.md
+# -
+Tools.md
 ## This week's goals
 ### Install Software
 
@@ -29,11 +30,7 @@ Do this while in Netlogo Hangout from home
 ## Longer term goals
 
 * Install, Configure, Test Google Apps
-* Google Groups Add to address books
-  * CeliaMCI-Team 
-  * CeliaMCI-TeamParent
-  * CeliaMCI-TeamParentAnnounce
-
+  * Google Groups
   * Google Hangouts
         Continue Testing
 
