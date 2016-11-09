@@ -30,9 +30,10 @@ Do this while in Netlogo Hangout from home
 
 * Install, Configure, Test Google Apps
 * Google Groups Add to address books
-** CeliaMCI-Team@googlegroups.com
-** CeliaMCI-TeamParent@googlegroups.com
-** CeliaMCI-TeamParentAnnounce@googlegroups.comk
+
+* CeliaMCI-Team@googlegroups.com
+* CeliaMCI-TeamParent@googlegroups.com
+* CeliaMCI-TeamParentAnnounce@googlegroups.comk
 
 * Google Hangouts
         Continue Testing
@@ -43,6 +44,6 @@ May retreat to Dropbox
         --Drew
 
 ###Other Tools
-* Vekrsion control: git
-* LibreOffice only if we out grow Google Docs
+* Version control: git
+* LibreOffice only if we outgrow Google Docs
 
