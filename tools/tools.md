@@ -31,10 +31,6 @@ Do this while in Netlogo Hangout from home
 * Install, Configure, Test Google Apps
 * Google Groups Add to address books
 
-* CeliaMCI-Team@googlegroups.com
-* CeliaMCI-TeamParent@googlegroups.com
-* CeliaMCI-TeamParentAnnounce@googlegroups.comk
-
 * Google Hangouts
         Continue Testing
 
