@@ -19,6 +19,23 @@
   * Dropbox
   * Google Drive
 
+# Notes
+
+# googlegroups.md
+* CeliaMCI-Team
+* CeliaMCI-TeamParent
+* CeliaMci-TeamParentAnnounce
+
+# git
+## git
+## github.com
+
+## Github markdown
+## Google Docs
+* Blas and Emiliano prepare to teach Miguel.
+
+## LibreOffice
+
 # To be determined
 ## Citation and Bibliography
 * Zotero
@@ -40,13 +57,4 @@ Try installing it at home on your laptop or desktop.
 * Try your free week(s) of paid version, before they expire!  
 * You will want to use this for your schoolwork.
 * Report results to: CeliaMCI-Team@googlegrops.com
-
-##Google Docs
-* Blas and Emiliano prepare to teach Miguel.
-
-## Longer term goals
-* Install, Configure, Test Google Apps
-  * Google Groups
-  * Google Hangouts
-        Continue Testing
 
