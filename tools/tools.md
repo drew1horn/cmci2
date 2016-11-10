@@ -1,12 +1,33 @@
 # -
 Tools.md
+* NetLogo
+* Citations and Bibliography
+* Grammaryly
+* Github Markdonw
+* Google Docs
+* Version Control
+  * Git
+  * Github
+* LibreOffice
+* Google Groups
+* Video Conferencing
+  * Google Hangouts
+  * FreeConferenceCall
+  * Skype
+* Cloud Storage
+  * GitHub
+  * Dropbox
+  * Google Drive
+
 ## This week's goals
 ### Install Software
+
+-----------------------------------------
 
 Try at least one Hangout from home with another team member
 Report results to: CeliaMCI-Team@googlegrops.com
 
-#### Netlogo
+#### NetLogo
 Try installing it at home on your laptop or desktop. 
 Do this while in Netlogo Hangout from home
 * Download and install from http://ccl.northwestern.edu/netlogo/
@@ -39,7 +60,4 @@ Do this while in Netlogo Hangout from home
         May retreat to Dropbox
         --Drew
 
-###Other Tools
-* Version control: git
-* LibreOffice only if we out grow Google Docs
 
