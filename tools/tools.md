@@ -46,18 +46,17 @@ A public git repository, with web interface, developer social media
 * Don't think we will out grow Google Docs
 * We might migrate to LibreOffice if necessary
 
-# To be determined
-## Citation and Bibliography
-* Zotero
-* Scrible
-* Blas' ...
-* Choose your favorite!
-* Report results to: CeliaMCI-Team@googlegrops.com
-
 ## Grammarly
 * Blas accept my Grammarly invitation 
 * Invite Blas, Emiliano to Grammarly
 * Try your free week(s) of paid version, before they expire!  
 * You will want to use this for your schoolwork.
+* Report results to: CeliaMCI-Team@googlegrops.com
+
+## Citation and Bibliography
+* Zotero
+* Scrible
+* Blas' ...
+* Choose your favorite!
 * Report results to: CeliaMCI-Team@googlegrops.com
 
