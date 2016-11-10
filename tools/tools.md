@@ -31,7 +31,7 @@ Try installing it at home on your laptop or desktop.
 The original command line interface to local and remote repositories.
 
 ### github.com
-A public git repository, with web interface, developer social media
+A public git repository, with web interface, website development, and developer social media
 
 ### Github markdown
 * github supports it's own markdown dialect in .md files
