@@ -1,23 +1,19 @@
 # Tools.md
 # Tool list
 * NetLogo
-* Citations and Bibliography
-* Grammarly
 * Github Markdown
 * Google Docs
 * Version Control
   * Git
   * Github
 * LibreOffice
+* Grammarly
+* Citations and Bibliography
 * Google Groups
 * Video Conferencing
   * Google Hangouts
   * FreeConferenceCall
   * Skype
-* Cloud Storage
-  * GitHub
-  * Dropbox
-  * Google Drive
 
 # Notes
 
@@ -26,15 +22,25 @@
 * CeliaMCI-TeamParent
 * CeliaMci-TeamParentAnnounce
 
-# git
+# Version Control, Archive, Website
 ## git
+The original command line interface to local and remote repositories.
+
 ## github.com
+A public git repository, with web interface, developer social media
 
 ## Github markdown
+* github supports it's own markdown dialect in .md files
+* easy, readable website generation on github site
+
 ## Google Docs
 * Blas and Emiliano prepare to teach Miguel.
+* Drew believes Google Docs play well with Github Markdown, but hasn't tried it.
+* We will start with GitHub Markdown and migrate to Google Docs if necessary.
 
 ## LibreOffice
+* Don't think we will out grow Google Docs
+* We might migrate to LibreOffice if necessary
 
 # To be determined
 ## Citation and Bibliography
