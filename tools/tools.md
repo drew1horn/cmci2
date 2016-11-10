@@ -1,35 +1,39 @@
 # Tools.md
-# Tool list
+* Google Groups
+* FreeConferenceCall
 * NetLogo
-* Github Markdown
-* Google Docs
 * Version Control
   * Git
   * Github
+* Github Markdown
+* Google Docs
 * LibreOffice
 * Grammarly
 * Citations and Bibliography
-* Google Groups
-* Video Conferencing
-  * Google Hangouts
-  * FreeConferenceCall
-  * Skype
 
 # Notes
 
-# googlegroups.md
+## Google Groups
 * CeliaMCI-Team
 * CeliaMCI-TeamParent
 * CeliaMci-TeamParentAnnounce
 
-# Version Control, Archive, Website
-## git
+##FreeConferenceCall
+
+## Netlogo
+Try installing it at home on your laptop or desktop. 
+
+* Download and install from http://ccl.northwestern.edu/netlogo/
+* Report results to: CeliaMCI-Team@googlegrops.com
+
+## Version Control, Archive, Website
+### git
 The original command line interface to local and remote repositories.
 
-## github.com
+### github.com
 A public git repository, with web interface, developer social media
 
-## Github markdown
+### Github markdown
 * github supports it's own markdown dialect in .md files
 * easy, readable website generation on github site
 
@@ -48,13 +52,6 @@ A public git repository, with web interface, developer social media
 * Scrible
 * Blas' ...
 * Choose your favorite!
-* Report results to: CeliaMCI-Team@googlegrops.com
-
-# To Do
-## Netlogo
-Try installing it at home on your laptop or desktop. 
-
-* Download and install from http://ccl.northwestern.edu/netlogo/
 * Report results to: CeliaMCI-Team@googlegrops.com
 
 ## Grammarly
