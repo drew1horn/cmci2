@@ -29,10 +29,10 @@ Try installing it at home on your laptop or desktop.
 ## Version Control, Archive, Website
 ### git
 The original command line interface to local and remote repositories.
-* [](https://opensource.com/education/16/1/git-education-classroom)
+* [Git in the Classroom](https://opensource.com/education/16/1/git-education-classroom)
 
-* [](http://sixrevisions.com/resources/git-tutorials-beginners/)
-* [](https://git-scm.com/book/en/v1/Getting-Started)
+* [Git Tutorials](http://sixrevisions.com/resources/git-tutorials-beginners/)
+* [Getting Started With Git](https://git-scm.com/book/en/v1/Getting-Started)
 
 * [What is git?]                       (https://opensource.com/resources/what-is-git?sc_cid=701600000011w1OAAQ)
 * [Stumbling Git]                      (https://opensource.com/life/16/7/stumbling-git?sc_cid=701600000011w1OAAQ)
