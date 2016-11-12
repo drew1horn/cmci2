@@ -14,9 +14,9 @@
 # Notes
 
 ## Google Groups
-* CeliaMCI-Team
-* CeliaMCI-TeamParent
-* CeliaMci-TeamParentAnnounce
+* CeliaMCI-Team@googlegroups.com
+* CeliaMCI-TeamParent@googlegroups.com
+* CeliaMci-TeamParentAnnounce@googlegroups.com
 
 ##FreeConferenceCall
 
