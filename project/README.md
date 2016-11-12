@@ -1,4 +1,4 @@
-# README.md
+# README
 
 * This directory is for project management
 * It contains:
