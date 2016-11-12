@@ -1,7 +1,8 @@
-Writer
-Blas & Emiliano
+# Writer
 
-Proposal
+* Blas & Emiliano
+
+#Proposal
     Model a real place
     Export to Minecraft to be able to play there
     Predict a future at the place
@@ -16,9 +17,9 @@ Proposal
     Rewrite new proposal and submit it
         If you can't get all three schools in use just one
 
-Interim Report
+# Interim Report
 
-Final Report
+# Final Report
     Start Fleshing out a template now! Instead of starting writing at the very end.
     Rubric
 

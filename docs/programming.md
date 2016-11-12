@@ -1,25 +1,25 @@
-Programming
-Miguel & Blas
+#Programming
 
-Install Netlogo (see tools)
-    May not get this far this week
+* Miguel & Blas
 
-Read
-    Netlogo Tutorials, 
-    Netlogo User Manual
-    Netlogo Dictionary!
+* Install Netlogo (see tools)
+  * May not get this far this week
 
-KO Models
+* Read
+  * Netlogo Tutorials, 
+  * Netlogo User Manual
+  * Netlogo Dictionary!
 
-    README
-    Mushroom-Tree-Network.nlogo
-    SimpleTreeModelGoOnceForKickoff_2016.nlogo
-    TreeModel2ForKickoff_2016.nlogo
+* KO Models
+  * README
+  * SimpleTreeModelGoOnceForKickoff_2016.nlogo
+  * TreeModel2ForKickoff_2016.nlogo
+  * Mushroom-Tree-Network.nlogo
 
-Learn To Do
-    Not this week, later!
-    Import GIS data, images, online databases,  etc.
-    Screen Scraping
-        Beautiful Soup is in Python
-    Export to Minecraft
+* Learn To Do
+  * Not this week, later!
+  * Import GIS data, images, online databases,  etc.
+  * Screen Scraping
+    * Beautiful Soup is in Python
+  * Export to Minecraft
 
