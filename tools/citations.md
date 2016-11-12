@@ -1,4 +1,4 @@
-## Citation and Bibliography
+# Citation and Bibliography
 * Zotero
 * Scrible
 * Blas' ...

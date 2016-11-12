@@ -1,5 +1,5 @@
-## Version Control, Archive, Website
-### git
+# Version Control, Archive, and Website
+## git
 The original command line interface to local and remote repositories.
 * [Git in the Classroom]               (https://opensource.com/education/16/1/git-education-classroom)
 * [Git Tutorials]                      (http://sixrevisions.com/resources/git-tutorials-beginners/)
@@ -12,7 +12,7 @@ The original command line interface to local and remote repositories.
 * [Build Your Own Git Server]          (https://opensource.com/life/16/8/how-construct-your-own-git-server-part-6)
 * [HOWTO manage binary blobs]          (https://opensource.com/life/16/8/how-manage-binary-blobs-git-part-7)
 
-### github.com
+## github.com
 A public git repository, with web interface, website development, and social media for developers
 * [Understanding Github Part 1]        (http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/)
 * [Understanding Github Part 2]        (http://readwrite.com/2013/10/02/github-for-beginners-part-2/)

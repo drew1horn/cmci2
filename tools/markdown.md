@@ -1,4 +1,4 @@
-### Github markdown
+# Github markdown
 * github supports it's own markdown dialect in .md files
 * easy, readable website generation on github site
 
