@@ -1,8 +1,9 @@
-Archivist
+# Archivist
+* drew is handling this for now
 
-Calendar
-Minutes
-Manage action items
-Git
-Github vs. Google Groups
+* Calendar
+* Minutes
+* Manage action items
+* Curate Git
+* Curate Github 
 
