@@ -9,6 +9,6 @@
 * [Github Markdown]             (markdown.md)
 * [Google Docs]                 (googledocs.md)
 * [LibreOffice]                 (libreoffic.md)
-* [Grammarly                    (grammarly.md)
+* [Grammarly]                   (grammarly.md)
 * [Citations and Bibliography]  (citations.md)
 
