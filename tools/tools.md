@@ -8,7 +8,7 @@
   * Github
 * [Github Markdown]             (markdown.md)
 * [Google Docs]                 (googledocs.md)
-* [LibreOffice]                 (libreoffic.md)
+* [LibreOffice]                 (libreoffice.md)
 * [Grammarly]                   (grammarly.md)
 * [Citations and Bibliography]  (citations.md)
 
