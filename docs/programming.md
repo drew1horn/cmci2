@@ -6,6 +6,8 @@
   * May not get this far this week
 
 * Read
+  * Just in time Learning
+  * Reading over your head skills
   * Netlogo Tutorials, 
   * Netlogo User Manual
   * Netlogo Dictionary!
