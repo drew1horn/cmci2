@@ -13,8 +13,8 @@ The original command line interface to local and remote repositories.
 * [HOWTO manage binary blobs]          (https://opensource.com/life/16/8/how-manage-binary-blobs-git-part-7)
 
 ### github.com
-A public git repository, with web interface, website development, and developer social media
-* [Understanding Github]    (http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/)
-* [Understanding Github]    (http://readwrite.com/2013/10/02/github-for-beginners-part-2/)
-* [Github: Hellow World]    (https://guides.github.com/activities/hello-world/)
+A public git repository, with web interface, website development, and social media for developers
+* [Understanding Github Part 1]        (http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/)
+* [Understanding Github Part 2]        (http://readwrite.com/2013/10/02/github-for-beginners-part-2/)
+* [Github: Hellow World]               (https://guides.github.com/activities/hello-world/)
 
