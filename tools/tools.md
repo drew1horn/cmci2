@@ -29,18 +29,18 @@ Try installing it at home on your laptop or desktop.
 ## Version Control, Archive, Website
 ### git
 The original command line interface to local and remote repositories.
-* https://opensource.com/education/16/1/git-education-classroom
+* [](https://opensource.com/education/16/1/git-education-classroom)
 
-* http://sixrevisions.com/resources/git-tutorials-beginners/
-* https://git-scm.com/book/en/v1/Getting-Started
+* [](http://sixrevisions.com/resources/git-tutorials-beginners/)
+* [](https://git-scm.com/book/en/v1/Getting-Started)
 
-* https://opensource.com/resources/what-is-git?sc_cid=701600000011w1OAAQ
-* https://opensource.com/life/16/7/stumbling-git?sc_cid=701600000011w1OAAQ
-* https://opensource.com/life/16/7/creating-your-first-git-repository?sc_cid=701600000011w1OAAQ
-* https://opensource.com/life/16/7/how-restore-older-file-versions-git?sc_cid=701600000011w1OAAQ
-* https://opensource.com/life/16/8/graphical-tools-git?sc_cid=701600000011w1OAAQ
-* https://opensource.com/life/16/8/how-construct-your-own-git-server-part-6?sc_cid=701600000011w1OAAQ
-* https://opensource.com/life/16/8/how-manage-binary-blobs-git-part-7?sc_cid=701600000011w1OAAQ
+* [What is git?]                       (https://opensource.com/resources/what-is-git?sc_cid=701600000011w1OAAQ)
+* [Stumbling Git]                      (https://opensource.com/life/16/7/stumbling-git?sc_cid=701600000011w1OAAQ)
+* [Creating Your First Git Repository] (https://opensource.com/life/16/7/creating-your-first-git-repository?sc_cid=701600000011w1OAAQ)
+* [HOWTO Restore older file versions]  (https://opensource.com/life/16/7/how-restore-older-file-versions-git?sc_cid=701600000011w1OAAQ)
+* [Git Graphical Tools]                (https://opensource.com/life/16/8/graphical-tools-git?sc_cid=701600000011w1OAAQ)
+* [Build Your Own Git Server]          (https://opensource.com/life/16/8/how-construct-your-own-git-server-part-6?sc_cid=701600000011w1OAAQ)
+* [HOWTO manage binary blobs]          (https://opensource.com/life/16/8/how-manage-binary-blobs-git-part-7?sc_cid=701600000011w1OAAQ)
 
 ### github.com
 A public git repository, with web interface, website development, and developer social media
