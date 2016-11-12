@@ -16,8 +16,10 @@ The original command line interface to local and remote repositories.
 A public git repository, with web interface, website development, and developer social media
 * [Understanding Github: A Journey for Beginners]
     (http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/)
+
 * [Understanding Github: A Journey for Beginners]
-    (http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-2/)
+    (http://readwrite.com/2013/10/02/github-for-beginners-part-2/)
+
 * [Github: Hellow World]
     (https://guides.github.com/activities/hello-world/)
 
