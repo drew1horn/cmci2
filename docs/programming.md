@@ -6,22 +6,21 @@
   * May not get this far this week
 
 * Read
+  * Netlogo Tutorials,
+  * Netlogo User Manual
+  * Netlogo Dictionary
   * Just in time Learning
   * Reading over your head skills
-  * Netlogo Tutorials, 
-  * Netlogo User Manual
-  * Netlogo Dictionary!
 
 * KO Models
-  * README
-  * SimpleTreeModelGoOnceForKickoff_2016.nlogo
-  * TreeModel2ForKickoff_2016.nlogo
-  * Mushroom-Tree-Network.nlogo
+  * README.md
+  * 01SimpleTreeModelGoOnceForKickoff_2016.nlogo
+  * 02TreeModel2ForKickoff_2016.nlogo
+  * 03Mushroom-Tree-Network.nlogo
 
 * Learn To Do
   * Not this week, later!
-  * Import GIS data, images, online databases,  etc.
+  * Import GIS data, images, online databases, climate data, etc.
   * Screen Scraping
     * Beautiful Soup is in Python
   * Export to Minecraft
-
