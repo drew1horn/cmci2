@@ -11,5 +11,4 @@
 * [Google Docs](googledocs.md)
 * [LibreOffice](libreoffice.md)
 * [Grammarly](grammarly.md)
-* [Citations and Bibliography](citations.md)
-
+* [Citations and Bibliography](citation.md)
