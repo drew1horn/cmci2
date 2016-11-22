@@ -1,16 +1,15 @@
-#Programming
+# Programming
 
 * Miguel & Blas
-
-* Install Netlogo (see tools)
-  * May not get this far this week
 
 * Read
   * Netlogo Tutorials,
   * Netlogo User Manual
   * Netlogo Dictionary
-  * Just in time Learning
-  * Reading over your head skills
+
+  Just in time Learning
+
+  Reading over your head skills
 
 * KO Models
   * README.md
