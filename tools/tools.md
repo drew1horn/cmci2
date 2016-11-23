@@ -1,5 +1,4 @@
 # Tools
-
 * [Google Groups](googlegroups.md)
 * [FreeConferenceCall](freeconferencecall.md)
 * [Teamviewer](teamviewer.md)

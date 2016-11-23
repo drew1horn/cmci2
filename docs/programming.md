@@ -12,6 +12,7 @@
   Reading over your head skills
 
 * KO Models
+  * Watch [Ted Talk on Mushrooms and Trees](https://www.ted.com/talks/suzanne_simard_how_trees_talk_to_each_other?language=en) for background on this model
   * README.md
   * 01SimpleTreeModelGoOnceForKickoff_2016.nlogo
   * 02TreeModel2ForKickoff_2016.nlogo

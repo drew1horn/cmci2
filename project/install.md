@@ -1,9 +1,8 @@
 # Install SW and Configure Team Computers
-
 ## Voice Conference with Free Conference Call
 Once we have a working voice call let's move on to get videoconferencing, screen sharing, etc. working
 
-v* Start with voice conference
+* Start with voice conference
   * Call      (641) 715-0634
   * Enter PIN 925311
 
@@ -13,12 +12,14 @@ Once we have Teamviewer working we will be able to share our screens an talk abo
 * First Drew Hosts a meeting.
 * Team Members Join meeting.
 * Find, download, and install appropriate version for your hardware from: https://www.teamviewer.com/en/download/
+* Then Team members will be able to host meetings.
 
 This will make the next installations easier.
 
 ## NetLogo
-Try installing it at home on your laptop(s) or desktop(s).
+Install on your laptop(s) and/or desktop(s).
 * Find, download and install appropriate version from: http://ccl.northwestern.edu/netlogo/
 
 ## Github Desktop
-* Download and install appropriate version from https://desktop.github.com/
+* Download and install appropriate mac, windows version from: https://desktop.github.com/
+* Linux boxes install Atom editor, etc.
