@@ -8,8 +8,8 @@
 Once we have a working voice call let's move on to get videoconferencing, screen sharing, etc. working
 
 ## Teamviewer
-* I'm not sure this is the best videoconferencing tools
-* But, let's try it!
+* First Drew Hosts a meeting.
+* Team Members Join meeting.
 * Download and install appropriate version from: https://www.teamviewer.com/en/download/
 
 Once we have Teamviewer working we will be able to share our screens an talk about what is happening.
