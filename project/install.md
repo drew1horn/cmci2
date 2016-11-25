@@ -20,6 +20,5 @@ This will make the next installations easier.
 Install on your laptop(s) and/or desktop(s).
 * Find, download and install appropriate version from: http://ccl.northwestern.edu/netlogo/
 
-## Github Desktop
-* Download and install appropriate mac, windows version from: https://desktop.github.com/
-* Linux boxes install Atom editor, etc.
+## atom.io
+* Download and install appropriate mac, windows, linux version from: https://atom.io/
