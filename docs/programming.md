@@ -7,7 +7,6 @@
   * __Netlogo Tutorials__:
   * __Netlogo User Manual__:
   * __Netlogo Dictionary__:
-  * __Just in time Learning__.
 
 * __KO Models__
   * Watch [Ted Talk on Mushrooms and Trees](https://www.ted.com/talks/suzanne_simard_how_trees_talk_to_each_other?language=en) for background on this model
