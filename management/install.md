@@ -6,7 +6,7 @@ Once we have a working voice call let's move on to get videoconferencing, screen
   * Call      (641) 715-0634
   * Enter PIN 925311
 
-## Teamviewer
+## Teamviewer: videoconferencing, screen sharing, recording, etc.
 Once we have Teamviewer working we will be able to share our screens an talk about what is happening.
 
 * First Drew Hosts a meeting.
